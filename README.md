@@ -2,16 +2,17 @@
 # Task
 Student Management
 
-
-
-
 ## Tech Stack
 
 **Frontend:** React.js,Tailwind CSS
 
 **Backend:** Java, Springboot
 
+**Database:** MongoDB
 
+**DB Name:** mozanta
+
+**DB uri:** mongodb://localhost:27017
 
 
 ## Run Locally
@@ -43,5 +44,6 @@ Start the server
  server : Run as springboot/java project(VS code)
 
 ```
+
 
 
